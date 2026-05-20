@@ -6,6 +6,23 @@ LatAm has 30M+ SMBs across dental, salons, law firms, accountants, restaurants, 
 
 Maintained by [Roberto Leon](https://github.com/robertoleono). Contributions welcome — see [contributing](#contributing).
 
+---
+
+## Built using this stack · live products
+
+A working demonstration of what this list enables. All built on the OSS components below, deployed to a single Hetzner server, billed via PayPal LIVE without LLC. Spanish-first for LatAm and Spain creators.
+
+| Product | What it is | Stack | Pricing |
+|---|---|---|---|
+| [Boletines](https://nemomot.com/boletines/) | Managed Listmonk newsletter platform · alternative to Mailchimp billed in pesos | Listmonk + FastAPI + PayPal subscriptions | $9-29/mo |
+| [Boletines Concierge](https://nemomot.com/concierge/) | Automated newsletter setup in 5 minutes · AI-generated branded templates | Listmonk + Claude API + PayPal one-time | $197 one-time |
+| [100 Prompts AI Pack](https://nemomot.com/prompts/) | Curated AI prompts in Spanish for entrepreneurs · 7 categories | Static + PayPal one-time + Zoho delivery | $19 one-time |
+| [NEMOMOT Community](https://nemomot.com/community/) | Premium community for Spanish entrepreneurs building with AI | Listmonk + PayPal subscriptions | $99/mo or $499/yr |
+
+Affiliate program available · 25-40% commission · whitelisted manual approve: [/api/affiliate/signup](https://nemomot.com/api/affiliate/signup)
+
+The full stack architecture is open and documented in this list. Anyone can replicate it.
+
 ## Contents
 
 - [Booking and Scheduling](#booking-and-scheduling)
